@@ -1,0 +1,160 @@
+alphabets
+A-Z
+a-z
+
+digits
+0-9
+
+speacial characters
+------------------------
+, 
+<
+>
+.
+-
+(
+)
+;
+$
+:
+%
+[
+]
+#
+?
+'
+&
+{
+}
+"
+^
+!
+*
+/
+|
+_
+\
+/
++
+
+
+keywords set by  ANSII(American National Stadard for Information Interchange)
+--------------
+auto
+break
+case
+char
+continue
+do
+default
+const
+double
+else
+enum
+extern
+for
+if
+goto
+float
+int
+long
+register
+return
+signed
+static
+sizeof
+short
+struct
+switch
+typedef
+union
+void
+while
+volatile
+unsigned
+
+
+int name = 20;
+
+Literals
+------------
+1.Integer ================10
+2.Floating-point literals =============10.0
+3.character=============='a'
+4.String==============="abc"
+
+datatypes
+----------
+Type      format-specifier
+----------------------------
+int		%d, %i
+char		%c
+float		%f
+double		%lf
+short int	%hd
+unsigned int	%u
+long int	%ld, %li
+long long int   %lld
+unsigned long int     %lu
+unsigned long long int   %llu
+singned char     %c
+unsigned char    %c
+long double     %Lf
+
+-------------------------------------
+C program input and output
+-----------------------
+output
+-------------------
+printf()
+
+
+-----------------
+12-04-21
+--------
+sujan kiran
+yerriswamy
+sathish
+srikanth
+suma
+uday
+
+15.04.21
+-----------
+sujan kiran
+yerriswamy
+srikanth
+suma
+uday
+radhika d.v
+nagaveni
+
+email
+------------
+YERRISWAMY J3:50 PM
+jyerriswamy98@gmail.com
+uday shetty3:50 PM
+udaybshetty123@gmail.com
+Sujan kiran3:50 PM
+sujankiran14@gmail.com
+Srikanth NG3:50 PM
+sring8861@gmail.co.
+nagaveniyadav.g nagaveniyadav.g3:50 PM
+nagaveniyadav.g19@gmail.com
+Radhika D.V3:50 PM
+radhikadhodaknal31@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
