@@ -2,7 +2,7 @@ class O
 {
 	public static void main(String[] a) 
 	{
-		int i     = 0;
+		int i = 0;
 		System.out.println(i);
 	}
 }
