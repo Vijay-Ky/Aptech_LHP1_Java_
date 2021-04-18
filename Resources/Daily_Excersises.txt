@@ -1,0 +1,58 @@
+Exersise for the Day 16.04.21
+1.What do you know about Java?
+2.Why Java is platform independent?
+3.What are the supported platforms by Java Programming Language?
+4.List two Java IDE’s?
+5.What is the Difference between JDK and JRE ?
+6.Why people say that Java is 'write once and run anywhere' language?
+7.Insert the missing part of the code below to output "Hello World".
+public class MyClass {
+  public static void main(String[] args) {  
+       .   .      ("Hello World");
+  }
+}
+8.Comments in Java are written with special characters. Insert the missing parts:
+
+ ...This is a single-line comment
+ ...This is a multi-line comment...
+9.Write a Java program to print 'Hello' on screen and then print your name on a separate line. 
+Expected Output:
+Hello
+Alexandra Abramov
+10.Write a Java program to print the sum of two numbers.
+Test Data:
+74 + 36
+Expected Output :
+110
+11.Write a Java program to divide two numbers and print on the screen. 
+Test Data :
+50/3
+Expected Output :
+16
+12. Write a Java program to print the result of the following operations. Go to the editor
+Test Data:
+a. -5 + 8 * 6
+b. (55+9) % 9
+c. 20 + -3*5 / 8
+d. 5 + 15 / 3 * 2 - 8 % 3
+Expected Output :
+43
+1
+19
+13.Write a Java program that takes two numbers as input and display the product of two numbers.
+Test Data:
+Input first number: 25
+Input second number: 5
+Expected Output :
+25 x 5 = 125
+14. Write a Java program to print the sum (addition), multiply, subtract, divide and remainder of two numbers. Go to the editor
+Test Data:
+Input first number: 125
+Input second number: 24
+Expected Output :
+125 + 24 = 149
+125 - 24 = 101
+125 x 24 = 3000
+125 / 24 = 5
+125 mod 24 = 5
+
