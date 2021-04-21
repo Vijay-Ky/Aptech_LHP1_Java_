@@ -13,7 +13,6 @@ class C
 				break;
 			case 5:
 				System.out.println("from case 5");
-				break;
 		}
 	}
 }

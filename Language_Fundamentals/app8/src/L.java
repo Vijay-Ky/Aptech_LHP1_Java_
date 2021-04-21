@@ -14,6 +14,9 @@ class L
 			case "abc":
 				System.out.println("from case \"abc\" ");
 				break;
+			//case 'a':
+				//System.out.println("from case 'a' ");
+				//break;
 		}
 	}
 }

@@ -11,7 +11,8 @@ class V
 				System.out.println("loop2 begin");
 				if(j > 2)
 				{
-					continue loop1;
+					//continue loop1;
+					break loop1;
 				}
 				System.out.println("loop2 end");
 			}

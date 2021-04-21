@@ -7,6 +7,7 @@ class S
 			System.out.println("loop begin");
 			if(i > 5)
 			{
+				//continue;
 				break;
 				System.out.println("if block");
 			}

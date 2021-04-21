@@ -8,9 +8,8 @@ class C
 	{
 		System.out.println("from main");
 	}
-	public static void test2()
+	public static void test2() 
 	{
 		System.out.println("from test2");
 	}
-	
 }

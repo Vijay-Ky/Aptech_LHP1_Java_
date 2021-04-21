@@ -2,7 +2,7 @@ class K
 {
 	public static void main(String[] args) 
 	{
-		char i = 'a';
+		char i = '&';
 		switch(i)
 		{
 			case 'a':
@@ -13,6 +13,12 @@ class K
 				break;
 			case 'c':
 				System.out.println("from case 'c'");
+				break;
+			case 38:
+				System.out.println("from case 38");
+				break;
+			case "abc":
+				System.out.println("from case abc");
 				break;
 		}
 	}

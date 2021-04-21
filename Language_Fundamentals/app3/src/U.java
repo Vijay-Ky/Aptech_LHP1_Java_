@@ -6,8 +6,8 @@ class U
 		int j = ++i + i + ++i + i;//
 		i = 0;
 		int k = --i + i + --i + i;//
-		System.out.println(i);
-		System.out.println(j);
-		System.out.println(k);
+		System.out.println(i);//-2
+		System.out.println(j);//6
+		System.out.println(k);//-6
 	}
 }

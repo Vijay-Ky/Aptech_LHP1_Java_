@@ -11,7 +11,8 @@ class L
 			{
 				continue;
 			}
-			System.out.println("end");	
+			System.out.println("end");
+			
 		}
 	}
 }
