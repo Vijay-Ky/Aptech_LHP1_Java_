@@ -14,6 +14,6 @@ class P
 		P p1 = new P();
 		System.out.println("-----");
 		P p2 = new P(1, 2);
-		System.out.println("-----");
+		System.out.println("-----");	
 	}
 }

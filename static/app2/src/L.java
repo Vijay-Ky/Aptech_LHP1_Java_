@@ -13,6 +13,7 @@ class M
 {
 	static
 	{
+		main(null);
 		System.out.println("SIB-M");
 	}
 	public static void main(String[] args)

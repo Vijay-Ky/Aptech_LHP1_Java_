@@ -2,21 +2,23 @@ class H
 {
 	static
 	{
-		System.out.println("H-SIB");
+		System.out.println("H-SIB1");
 	}
 	public static void main(String[] args)
 	{
 		System.out.println("H-main");
 	}
-}
-class I
-{
 	static
 	{
-		System.out.println("I-SIB");
+		System.out.println("H-SIB2");
 	}
-	public static void main(String[] args)
+	static
 	{
-		System.out.println("I-main");
+		System.out.println("H-SIB3");
+	}
+	static
+	{
+		System.out.println("H-SIB4");
 	}
 }
+

@@ -7,9 +7,9 @@ class S
 		x = 10;
 		System.out.println(x);
 	}
-	static void test2(S s1)
+	static void test2(S obj)
 	{
-		s1.i = 20;
+		obj.i = 20;
 	}
 	public static void main(String[] args)
 	{
