@@ -10,7 +10,7 @@ class J
 	}
 	public static void main(String[]args)
 	{
-		J ji = new J();
+		J j1 = new J();
 		System.out.println("-----");
 		J j2 = new J(20);
 		System.out.println("-----");

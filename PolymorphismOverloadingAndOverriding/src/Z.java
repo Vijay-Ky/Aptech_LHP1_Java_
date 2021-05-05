@@ -17,9 +17,9 @@ class Z
 
 	public static void main(String[] args) 
 	{
-		Z.test1();
+		test1();
 		Z.test1(90);
-		Z.test1(90, 100);
+		test1(90, 100);
 		System.out.println("done");
 	}
 }

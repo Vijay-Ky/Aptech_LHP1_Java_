@@ -1,7 +1,7 @@
 class J
 {
-	//void test1(int i)
-	static void test1(int i)
+	void test1(int i)
+	//static void test1(int i)
 	{
 		System.out.println("from test1.J");
 	}
@@ -9,8 +9,8 @@ class J
 
 class K extends J
 {
-	//void test1()
-	static void test1()
+	void test1()
+	//static void test1()
 	{
 		System.out.println("from test1.K");
 	}
@@ -21,8 +21,8 @@ class K extends J
 		//K k1 = new K();
 		//k1.test1(10);
 		//k1.test1();
-		//J j2 = new K();
+		J j2 = new K();
 		//j2.test1();
-		//j2.test1(10);
+		j2.test1(10);
 	}
 }

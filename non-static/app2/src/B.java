@@ -1,8 +1,8 @@
-class B
+class B extends Object
 {
 	B()
 	{
-		super();
+		//super();
 		System.out.println("B()");
 	}
 	public static void main(String[]args)

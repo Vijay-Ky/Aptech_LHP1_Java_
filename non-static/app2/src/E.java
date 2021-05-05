@@ -6,7 +6,7 @@ class E
 		System.out.println("K(int)");
 		i = 10;
 	}
-	public static void main(String[]args)
+	public static void main(String[] args)
 	{
 		E e1 = new E(9);
 		System.out.println("-----");
