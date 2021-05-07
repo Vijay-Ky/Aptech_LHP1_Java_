@@ -9,6 +9,7 @@ class W extends V
 {
 	W()
 	{
+		//super();
 		System.out.println("W()");
 	}
 	public static void main(String[]args)

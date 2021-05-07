@@ -3,6 +3,7 @@ interface C
 	static final int i = 10;
 	static final int j = 20;
 	final static int k = 30;
+	int l = 40; 
 
 	void test1();
 	public abstract void test2();
