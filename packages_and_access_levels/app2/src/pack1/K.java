@@ -2,7 +2,7 @@ package pack1;
 class J
 {
 	private int x;
-	int y;
+	int y;//default/package/friendly 
 }
 class K extends J 
 {

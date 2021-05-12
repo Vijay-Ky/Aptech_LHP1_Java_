@@ -1,6 +1,6 @@
 package rst;
 import aptech.N;
-class U extends aptech.N
+class U extends N
 {
 	public static void main(String[]args)	
 	{

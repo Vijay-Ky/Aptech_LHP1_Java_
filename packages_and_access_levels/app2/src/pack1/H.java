@@ -8,7 +8,7 @@ class H
 	}
 	public int get()
 	{
-		return i;
+		return this.i;
 	}
 }
 class I
